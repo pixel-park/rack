@@ -1,0 +1,16 @@
+{
+    "rowCapacity": 6,
+    "rackProperties":{      
+        "width": 0.4,
+        "depth": 0.4
+    },
+    "racks":[
+        {
+            "id": 1,
+            "front":{
+                "unit-8": [["qr-4", "cam-1",[0,1]]]
+            },
+            "back":null
+        }
+    ]
+}
